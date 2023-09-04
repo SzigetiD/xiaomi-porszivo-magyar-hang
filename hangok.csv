@@ -1,0 +1,161 @@
+File;Original;közvetlen;fordított
+0.ogg;Startup sound;;
+1.ogg;Waiting for the network configuration.;Várom a hálózati beállításokat;Várja a hálózati konfigurációt.
+2.ogg;Unable to connect to the wifi network. Please check wifi password and try again later.;Nem tudtam kapcsolódni a wifihez, kérlek ellenõrizd a jelszót;Nem tud csatlakozni a wifi hálózathoz. Kérjük, ellenõrizze a wifi jelszót, és próbálja meg késõbb újra.
+3.ogg;Unable to connect to the server. Please check your local network and try again later.;Nem tudtam kapcsolódni aszerverhez, kérlek ellenõrizd a hálózatodat.;Nem sikerült csatlakozni a kiszolgálóhoz. Kérjük, ellenõrizze a helyi hálózatot, és próbálja meg késõbb újra.
+4.ogg;Robot has exited network configuration mode.;Kiléptem a hálózat beállítási módból.;A robot kilépett a hálózati konfigurációs módból.
+5.ogg;Network connected successfully.;Sikerült kapcsolódnom.;A hálózat sikeresen csatlakozott.
+6.ogg;Network connection failed. Please try again later.;Nem sikerült kapcsolódnom. Próbáld meg késõbb.;A hálózati kapcsolat sikertelen. Kérjük, próbálja meg késõbb újra.
+7.ogg;Start cleaning.;Elkezdem a takarítást.;Kezdje el a tisztítást.
+8.ogg;Start spot cleaning.;Elkezdem a kijelölt terület tisztítását.;Helyszíni tisztítás megkezdése.
+9.ogg;Start scheduled cleaning.;Elkezdem az ütemezett takarítást.;Idõzített tisztítás indítása.
+10.ogg;Start resuming cleaning.;Folytatom a takarítást;Folytatólagos tisztítás megkezdése.
+11.ogg;Paused.;Rendben. Addig itt várok.;Szüneteltetés.
+12.ogg;Cleaning task completed.;Végeztem a takarítással.;Takarítási feladat befejezve.
+13.ogg;Returning to the dock to charge.;Visszamegyek az állomáshoz, tölteni.;Visszatérés a dokkolóba töltéshez.
+14.ogg;Low battery. Returning to the dock to charge. Robot will resume working after charging.;Lemerült az akkumulátorom. Visszamegyek a dokkolóhoz feltölteni. Töltés után újra lehet használni.;Alacsony töltöttségû akkumulátor. Visszatérés a dokkolóhoz töltéshez. A robot a feltöltés után folytatja a munkát.
+15.ogg;I'm about to return to the starting point.;Mindjárt visszatérek a kiindulópontra.;Vissza fogok térni a kiindulási pontra.
+16.ogg;Low battery. I'm about to return to the starting point. Please charge me.;Lemerült az akkumulátorom. Visszatérek a kiindulópontra. Kérlek tölts fel.;Alacsony az akkumulátor töltöttsége. Mindjárt visszatérek a kiindulási pontra. Kérem, töltsön fel.
+17.ogg;Please move robot to the dock to charge.;Kérlek vigyél vissza az állomásra feltölteni.;Kérem, vigye a robotot a dokkolóhoz a töltéshez.
+18.ogg;Charging.;Okés, töltõdöm.;Töltés.
+19.ogg;Please move robot from the dock before turning it off.;Kikapcsolás elõtt vegyél ki a dokkolóból.;Kérem, vigye el a robotot a dokkolóból, mielõtt kikapcsolja.
+20.ogg;Low battery.;Lemerült az akkumulátorom.;Alacsony az akkumulátor töltöttsége.
+21.ogg;Low battery. Robot will turn off.;Alacsony az akkumulátorom töltöttsége. Kikapcsolok.;Lemerült az akkumulátor. A robot kikapcsol.
+22.ogg;Please move robot to an area that needs to be cleaned.;Kérlek vigyél oda, ahol takarítanom kell.;Kérjük, vigye a robotot egy olyan területre, amelyet meg kell tisztítani.
+23.ogg;Water tank has been installed.;Víztartály telepítve.;A víztartály már telepítve van.
+24.ogg;Please check whether water tank is installed properly.;Kérjük, ellenõrizze, hogy a víztartály megfelelõen van-e telepítve.;Kérjük, ellenõrizze, hogy a víztartály megfelelõen van-e telepítve.
+25.ogg;Low battery. Unable to carry out the scheduled cleanup.;Alacsony az akkumulátorom töltöttsége. Nem tudom elvégezni a tervezett takarítást.;Alacsony az akkumulátor töltöttsége. Nem tudja elvégezni a tervezett takarítást.
+26.ogg;Restoring to factory settings.;Gyári beállítások visszaállítása.;Gyári beállítások visszaállítása.
+27.ogg;Updating. Taking about five minutes. Do not turn off nor start a cleaning task.;Frissítés. Körülbelül öt percet vesz igénybe. Ne kapcsolj ki és ne indíts el tisztítási feladatot.;Frissítés. Körülbelül öt percet vesz igénybe. Ne kapcsolja ki és ne indítson el tisztítási feladatot.
+28.ogg;Updated successfully.;A frissítés sikeres.;Sikeres frissítés.
+29.ogg;Update failed, please try again later.;A frissítés sikertelen, próbáld meg késõbb.;A frissítés sikertelen, kérjük, próbálja meg késõbb újra.
+30.ogg;Positioning, please wait.;Most kiderítem hol vagyok. Kérlek várj!;Pozicionálás, kérjük, várjon.
+31.ogg;Positioning failed. Map is invalid. Robot will start a new cleanup.;Nem tudom hol vagyok, a térképem érvénytelen. Újrakezdem az elejérõl.;A pozicionálás sikertelen. A térkép érvénytelen. A robot új tisztítást indít.
+32.ogg;I’ve detected changes to the environment. Please push the button and start a new cleaning cycle.;Változásokat észleltem a környezetben. Kérlek, nyomd meg a gombot, és indíts el egy új tisztítási ciklust.;Változást észleltem a környezetben. Kérem nyomja meg a gombot és indítson el egy új tisztítási ciklust.
+33.ogg;Visual navigation sensor error. Please wipe it clean and restart.;Valamiért nem látok rendesen. Kérlek tisztítsd meg a kamerámat.;Vizuális navigációs érzékelõ hiba. Kérjük, törölje le és indítsa újra.
+34.ogg;Dustbin not installed. Please install it.;Nincs telepítve a porzsákom. Kérlek ellenõrizd.;A szemetes nem telepítve. Kérjük, telepítse.
+35.ogg;Main brush error. Please check and clean it.;Az alsó forgókefével valami baj van. Kérlek, ellenõrizd és tisztítsd meg.;Fõkefe hiba. Kérjük, ellenõrizze és tisztítsa meg.
+36.ogg;Side brush error. Please check and clean it.;Az oldalsó forgókefével valami baj van. Kérlek, ellenõrizd és tisztítsd meg.;Oldalsó kefe hiba. Kérjük, ellenõrizze és tisztítsa meg.
+37.ogg;Right wheel error. Please check and clean it.;A jobb oldali kerekemmel valami baj van. Kérlek, ellenõrizd és tisztítsd meg.;Jobb oldali kerék hibája. Kérjük, ellenõrizze és tisztítsa meg.
+38.ogg;Left wheel error. Please check and clean it.;A bal oldali kerekemmel valami baj van. Kérlek, ellenõrizd és tisztítsd meg.;Bal kerék hiba. Kérjük, ellenõrizze és tisztítsa meg.
+39.ogg;Please clean cliff sensor.;Kérem tisztítsd meg a kliff szenzort.;Kérjük, tisztítsa meg a sziklaérzékelõt.
+40.ogg;Robot stuck. Please move it to a new position to restart.;Elakadtam. Kérlek szabadíts ki és indíts újra.;A robot elakadt. Kérjük, vigye át egy új pozícióba az újraindításhoz.
+41.ogg;Robot's wheels suspended. Please move robot back on the ground.;A kerekeim nem érik a földet. Kérlek tegyél vissza a talajra.;A robot kerekei felfüggesztõdtek. Kérjük, mozgassa vissza a robotot a talajra.
+42.ogg;Please check and clean filter.;Kérlek ellenõrizd és tisztítsd meg a szûrõt.;Kérjük, ellenõrizze és tisztítsa meg a szûrõt.
+43.ogg;Bumper error. Please gently tap to see if it rebounds.;Valami baj ban az ütközõmmel. Óvatosan kopogtasd meg, hogy, visszapattan-e.;Ütközõ hiba. Kérjük, óvatosan kopogtassa meg, hogy lássa, visszapattan-e.
+44.ogg;Error. Please check the user manual or contact customer service.;Hiba. Kérlek, ellenõrizd a felhasználói kézikönyvet, vagy lépj kapcsolatba az ügyfélszolgálattal.;Hiba. Kérjük, ellenõrizze a felhasználói kézikönyvet, vagy lépjen kapcsolatba az ügyfélszolgálattal.
+45.ogg;I am here.;Itt vagyok.;Itt vagyok.
+46.ogg;Robot and phone connected. Please return to App to wait for the result.;A robot és a telefon csatlakoztatva. Térj vissza az alkalmazáshoz, hogy lásd az eredményt.;A robot és a telefon csatlakoztatva. Kérjük, térjen vissza az alkalmazáshoz, hogy megvárja az eredményt.
+47.ogg;Start charging.;Megkezdtem a töltést.;Kezdje el a töltést.
+48.ogg;Low battery. Returning to the dock.;Hamarosan lemerülök. Visszamegyek a dokkolóba.;Alacsony az akkumulátor töltöttségi szintje. Visszatérés a dokkolóba.
+49.ogg;High intensity magnetic field detected. Please move robot away and restart.;Nagy intenzitású mágneses mezõt észleltem. Kérlek tegyél kicsit arrébb, és indíts újra.;Nagy intenzitású mágneses mezõt észleltek.Kérjük, távolítsa el a robotot és indítsa újra.
+50.ogg;Charging error. Please clean charging contacts.;Töltési hiba. Kérlek, tisztítsd meg a töltési érintkezõket.;Töltési hiba. Kérjük, tisztítsa meg a töltési érintkezõket.
+51.ogg;Battery overheating or overcooling. Please wait until the battery's temperature returns to normal. Then continue to use.;Az akkumulátorom túlmelegedett vagy nagyon hideg van. Meg kell várni amíg az akkumulátor hõmérséklete visszaáll a normál értékre. Utána már tudsz használni.;Az akkumulátor túlmelegedése vagy túlhûtése. Kérjük, várjon, amíg az akkumulátor hõmérséklete visszaáll a normál értékre. Ezután folytassa a használatot.
+52.ogg;Robot tilted. Please put it on a level ground to restart.;Nagyon megdõltem. Kérlek tegyél egy vízszintes talajra.;A robot megdõlt. Kérjük, az újraindításhoz tegye vízszintes talajra.
+53.ogg;Virtual no-go zone detected. Please move robot away and restart.;Virtuális tiltott zónát észleltem. Kérlek, vigyél arrébb és indíts újra.;Virtuális tiltott zónát észlelt. Kérjük, vigye el a robotot és indítsa újra.
+54.ogg;Positioning succeeded. Resuming cleaning.;Rendben, már tudom hol vagyok. Folytatom a takarítást.;A pozicionálás sikeres volt. Folytatjuk a takarítást.
+55.ogg;Positioning succeeded. Resuming returning to the dock.;Rendben, már tudom hol vagyok. A dokkoló felé tartottam.;Pozicionálás sikeres. Folytatódik a dokkhoz való visszatérés.
+56.ogg;Start selected room cleaning.;Megkezdem a kiválasztott helyiség takarítását.;A kiválasztott helyiség takarításának megkezdése.
+57.ogg;Start zoned cleaning.;Megkezdem a zóna takarítását.;Zónás takarítás megkezdése.
+58.ogg;Proceed with cleaning task.;Folytatom a takarítást.;Folytassa a takarítási feladatot.
+59.ogg;Mopping completed. Please remove water tank timely.;Végeztem a felmosással. Kérlek, idõben távolítsd el a víztartályt.;A felmosás befejezõdött. Kérjük, idõben távolítsa el a víztartályt.
+60.ogg;Optical flow sensor error. Please wipe the optical flow sensor clean and restart.;Optikai mozgásérzékelõ hiba. Kérlek, töröd tisztára az optikai áramlásérzékelõt és indíts újra.;Optikai áramlásérzékelõ hiba. Kérjük, törölje tisztára az optikai áramlásérzékelõt és indítsa újra.
+61.ogg;Start mopping.;Rendben. Elkezdem a felmosást.;Kezdje meg a felmosást.
+62.ogg;Start remote control cleaning.;Távvezérelt takarítás indítása.;Indítsa el a távvezérlõ tisztítását.
+63.ogg;Water tank has been removed.;Víztartály eltávolítva.;A víztartályt eltávolították.
+64.ogg;Positioning failed. Map is invalid. Robot will return to dock.;Nem tudom hol vagyok, a térképem érvénytelen. Visszamegyek a dokkolóba.;A pozicionálás nem sikerült. A térkép érvénytelen. A robot visszatér a dokkolóba.
+65.ogg;Resume returning to the dock.;A dokkolóhoz tartottam.;Folytassa a dokkolóhoz való visszatérést.
+66.ogg;Filter worn out. Please replace it timely.;A szûrõ elhasználódott. Cseréld ki amint lehet.;A szûrõ elhasználódott. Kérjük, idõben cserélje ki.
+67.ogg;Side brush worn out. Please replace it timely.;Az oldalsó kefe elhasználódott. Cseréld ki amint lehet.;Az oldalsó kefe elhasználódott. Kérjük, idõben cserélje ki.
+68.ogg;Main brush worn out. Please replace it timely.;A fõkefe elhasználódott. Cseréld ki amint lehet.;A fõkefe elhasználódott. Kérjük, idõben cserélje ki.
+69.ogg;Cleanup path blocked. Please move robot to a new position to restart.;Nem tudok takarítani mert az utabman van valami. Kerlek rakj át hogy tudjam folytatni.;A tisztítási útvonal elzáródott. Kérjük, az újraindításhoz helyezze át a robotot egy új pozícióba.
+70.ogg;Please remove and clean mop pad.;Kérlek, távolítsd el és tisztítsd meg a felmosóbetétet.;Kérjük, távolítsa el és tisztítsa meg a felmosóbetétet.
+71.ogg;Laser sensor error. Please check and clean the laser sensor.;Lézerérzékelõ hiba. Kérlek, ellenõrizd és tisztítsd meg a lézerérzékelõt.;Lézerérzékelõ hiba. Kérjük, ellenõrizze és tisztítsa meg a lézerérzékelõt.
+72.ogg;Please check whether laser distance sensor cover is jammed.;Kélek ellenõrizd a lézeres távolságmérõ szenzoromat, lehet hogy elakadt.;Kérjük, ellenõrizze, hogy a lézertávolság-érzékelõ fedele nem akadt-e el.
+73.ogg;Edge sensor error. Please check and clean it.;Kélek ellenõrizd a peremérzékelõ szenzoromat, lehet hogy piszkos és meg kell tisztítani.;Élérzékelõ hiba. Kérjük, ellenõrizze és tisztítsa meg.
+74.ogg;Please try to clean the obstacle sensors.;Kérlek tisztítsd meg az akadályérzékelõimet.;Kérjük, próbálja meg tisztítani az akadályérzékelõket.
+75.ogg;Filter may not be dry or may be blocked.;Kérlek ellenõrizd a szûrõt, lehet hogy vizes lett vagy eltömõdött.;A szûrõ lehet, hogy nem száraz vagy eltömõdött.
+76.ogg;Spot cleanup is starting.;Elkezdem a kijelölt terület tisztítását.;A foltok tisztítása megkezdõdött.
+77.ogg;Please start robot in non-carpet area.;Kélek indíts el ott, ahol nincs szõnyeg;Kérjük, indítsa el a robotot nem szõnyeges területen.Kérjük, tisztítsa meg a 3D akadályelkerülõ érzékelõt.A 3D akadályelkerülõ érzékelõ hibája. Kérjük, indítsa újra a robotot, vagy lépjen kapcsolatba az ügyfélszolgálattal.A 3D akadályelkerülõ érzékelõ jeladója hibásan mûködik. Kérjük, indítsa újra a robotot, vagy lépjen kapcsolatba az ügyfélszolgálattal.Ultrahangos érzékelõ hiba. Kérjük, indítsa újra a robotot, vagy lépjen kapcsolatba az ügyfélszolgálattal.Indítsa el a térképezést.
+78.ogg;Please clean 3D obstacle avoidance sensor.;Kérlek, tisztítsd meg a 3D akadályelkerülõ érzékelõimet.;Folytassa a feltérképezést.
+79.ogg;3D obstacle avoidance sensor error. Please restart robot or contact customer service.;A 3D akadályelkerülõ érzékelõ hiba. Kérlek, indíts újra, vagy lépj kapcsolatba az ügyfélszolgálattal.;A feltérképezés befejezõdött.A pozicionálás sikeres volt. Folytatódik a feltérképezés.
+80.ogg;The transmitter of 3D obstacle avoidance sensor is malfunctioning. Please restart the robot or contact the after-sales service department.;A 3D akadályelkerülõ érzékelõ jeladója hibásan mûködik. Kérjük, indítsa újra a robotot, vagy lépjen kapcsolatba az ügyfélszolgálattal.;A pozicionálás sikertelen.A térképezés újraindítása.Alacsony az akkumulátor töltöttsége. Visszatérés a dokkolóhoz.Távvezérlõ üzemmódba lépés.Újratöltés folytatása.Folytassa a tisztítási feladatot.
+81.ogg;Ultrasonic sensor error. Please restart robot or contact customer service.;Ultrahangos érzékelõ hiba. Kérjük, indítsa újra a robotot, vagy lépjen kapcsolatba az ügyfélszolgálattal.;A tisztítóvíztartály nincs beszerelve. Kérjük, szerelje be, mielõtt a robot folytatja a munkát.A szennyezett víztartály nincs beszerelve. Kérjük, szerelje be, mielõtt a robot folytatja a munkát.
+82.ogg;Start mapping.;Feltérképezés. Körülnézek kicsit ha nem baj.;Nincs elég víz a tiszta víztartályban. Töltsön vizet a tartályba, mielõtt a robot folytatja a munkát.
+83.ogg;Proceed with mapping.;Folytatom a feltérképezést.;A szennyezett víztartály megtelt. Öntse ki a piszkos vizet, mielõtt a robot folytatja a munkát.
+84.ogg;Mapping completed.;Befejeztem a feltérképezést. Láttam mindent.;A felmosólap mosótábla nincs felszerelve. A robot nem tud visszatérni a töltõállomáshoz.
+85.ogg;Positioning succeeded. Proceeding with mapping.;Már tudom hol vagyok. Folytatom a feltérképezést. Még nem láttam ám mindent.;A felmosólap mosódeszka túlcsordult. Ellenõrizze, hogy a pad vízkivezetõ nyílása el van-e dugulva.
+86.ogg;Positioning failed. Restarting mapping.;Sajnos nem sikerült kiderítenem hol vagyok. Ezért újraindítom a térképezést.;A pozicionálás nem sikerült. Újraindítom a térképezést.
+87.ogg;Low battery. Returning to the dock.;Alacsony az akkumulátorom töltöttsége. Visszamegyek a dokkolóhoz.;Alacsony az akkumulátor töltöttsége. Visszatérés a dokkolóhoz.
+88.ogg;Enter remote control mode.;Távvezérlõ üzemmód, átadom az irányítást.;Távvezérlõ üzemmódba lépés.
+89.ogg;Resume recharging.;Újra töltõdöm.;Újratöltés folytatása.
+90.ogg;Proceed with cleaning task.;Folytatom a takarítást;Folytassa a tisztítási feladatot.
+91.ogg;The clean water tank is not installed. Please install it before the robot carries on working.;A tiszta víztartály nincs beszerelve. Kérlek, helyezd be, mielõtt folytatom a munkát.;A tiszta víztartály nincs beszerelve. Kérjük, szerelje be, mielõtt a robot folytatja a munkát.
+92.ogg;The dirty water tank is not installed. Please install it before the robot carries on working.;A szennyezett víztartály nincs beszerelve. Kérlek, helyezd be, mielõtt folytatom a munkát.;A szennyezett víztartály nincs beszerelve. Kérjük, szerelje be, mielõtt a robot folytatja a munkát.
+93.ogg;There is not enough water in the clean water tank. Add water to the tank before the robot carries on working.;Nincs elég víz a tiszta tartályban. Kérlek, töltsd fel, mielõtt folytatom a munkát.;Nincs elég víz a tiszta víztartályban. Töltsön vizet a tartályba, mielõtt a robot folytatja a munkát.
+94.ogg;The dirty water tank is full. Pour off the dirty water before the robot carries on working.;A szennyezett víztartály megtelt. Kérlek öntsd ki a piszkos vizet, mielõtt folytatom a munkát.;A szennyezett víztartály megtelt. Öntse ki a piszkos vizet, mielõtt a robot folytatja a munkát.
+95.ogg;The mop pad washboard is not installed. The robot can not return to the charging dock.;A felmosólap mosótábla nincs felszerelve. Így nem tudok visszamenni a töltõállomáshoz.;A felmosólap mosótábla nincs felszerelve. A robot nem tud visszatérni a töltõállomáshoz.
+96.ogg;The mop pad washboard is overflowing. Please check whether the water outlet of the pad is blocked.;A felmosólap mosódeszka túlcsordult. Ellenõrizd, hogy a pad vízkivezetõ nyílása nincs-e eldugulva.;A felmosólap mosódeszka túlcsordult. Ellenõrizze, hogy a pad vízkivezetõ nyílása el van-e dugulva.
+97.ogg;The dust collection bag is not installed. Please install it before the robot carries on working.;A porgyûjtõ zsák nincs beszerelve. Kérlek, szereld fel, mielõtt tovább dolgozok.;A porgyûjtõ zsák nincs felszerelve. Kérjük, szerelje fel, mielõtt a robot tovább dolgozik.
+98.ogg;The dust collection bag is full. Please empty it.;A porgyûjtõ zsák megtelt. Kérlek, ürítsd ki.;A porgyûjtõ zsák megtelt. Kérjük, ürítse ki.
+99.ogg;The upper cover of charging and dust collection compartment is not closed. Please close the upper cover before the robot carries on working.;A töltõ- és porgyûjtõ rekesz felsõ fedele nincs lezárva. Kérlek, zárd be a felsõ fedelet, mielõtt folytattom a munkát.;A töltõ- és porgyûjtõ rekesz felsõ fedele nincs lezárva. Kérjük, zárja be a felsõ fedelet, mielõtt a robot folytatja a munkát.
+100.ogg;The air duct of charging and dust collection compartment is blocked. Please have a check.;A töltõ- és porgyûjtõ rekesz légcsatornája el van zárva. Kérlek, ellenõrizd.;A töltõ- és porgyûjtõ rekesz légcsatornája el van zárva. Kérjük, ellenõrizze.
+101.ogg;The upper cover of auto-empty base is not closed or the dust collection bag is not installed. Please close the upper cover or install the bag.;Az automatikus ürítõalap felsõ fedele nincs lezárva, vagy a porgyûjtõ zsák nincs felszerelve. Kérjük, zárd be a felsõ fedelet vagy szereld be a zsákot.;Az automatikus ürítõalap felsõ fedele nincs lezárva, vagy a porgyûjtõ zsák nincs felszerelve. Kérjük, zárja be a felsõ fedelet vagy szerelje be a zsákot.
+102.ogg;The dust collection bag is full or the air duct is blocked. Please replace the bag with a new one or clean the air duct in time.;A porgyûjtõ zsák megtelt, vagy a légcsatorna eltömõdött. Kérlek, cseréld ki a zsákot egy újjal, vagy tisztítsd meg idõben a légcsatornát.;A porgyûjtõ zsák megtelt, vagy a légcsatorna eltömõdött. Kérjük, cserélje ki a zsákot egy újjal, vagy tisztítsa meg idõben a légcsatornát.
+103.ogg;The mop pad wash board is installed. The robot resumes working.;A felmosópárna mosólemez beszerelve. Folytatom a munkát.;A felmosópárna mosólemez be van szerelve. A robot folytatja a munkát.
+104.ogg;The mop pad wash board is not installed. Please ensure that a wash board is installed and clasps on its both sides are tightly fastened.;A felmosópárna mosólemez nincs felszerelve. Kérjük, gondoskodj arról, hogy a mosódeszka be legyen szerelve, és a két oldalán lévõ kapcsok szorosan rögzítve legyenek.;A felmosópárna mosólemez nincs felszerelve. Kérjük, gondoskodjon arról, hogy a mosódeszka be legyen szerelve, és a két oldalán lévõ kapcsok szorosan rögzítve legyenek.
+105.ogg;Start cleaning.;Oké, kezdem a takarítást;Kezdje el a takarítást.
+106.ogg;Start cleaning the mop.;Kitisztítom a felmósóimat.;Kezdje el tisztítani a felmosót.
+107.ogg;Start dehydrating the mop.;Megszárítom a felmósóimat.;Kezdje el kiszárítani a mopot.
+108.ogg;The water level of mop pad wash board is abnormal. Please clean it in time to avoid blockage.;A felmosópárna mosódeszkájának vízszintje rendellenes. Kérlek, idõben tisztítsd meg, hogy elkerüld a dugulást.;A felmosópárna mosódeszkájának vízszintje rendellenes. Kérjük, idõben tisztítsa meg, hogy elkerülje a dugulást.
+109.ogg;An exception occurred in the dirty water tank. Please ensure that a dirty water tank is installed and timely empty the dirty water inside.;Valami baj történt a szennyezett víztartályban. Kérlek, gondoskodj a szennyezett víztartály beszerelésérõl, és idõben ürítsd ki a benne lévõ szennyezett vizet.;Kivétel történt a szennyezett víztartályban. Kérjük, gondoskodjon a szennyezett víztartály beszerelésérõl, és idõben ürítse ki a benne lévõ szennyezett vizet.
+110.ogg;Start auto empty.;Elkezdem az automatikus ürítést.;Indítsa el az automatikus ürítést.
+111.ogg;Mop pads off. Please install them before resuming working.;A felmosóbetét nincs felszerelve. Kérlek, a munka folytatása elõtt szereld fel õket.;A felmosóbetéteket kikapcsolja. Kérjük, a munka folytatása elõtt szerelje fel õket.
+112.ogg;Place robot back onto the self-wash base before use.;Használat elõtt helyezze vissza a robotot az önmosó alapra.;Használat elõtt helyezze vissza a robotot az önmosó alapra.
+113.ogg;Task completed. Please empty waste tank timely.;Feladat kész. Kérlek, idõben ürítsd ki a hulladéktartályt.;Feladat elvégezve. Kérjük, idõben ürítse ki a hulladéktartályt.
+114.ogg;Mop pads installed.;A felmosóbetétek telepítve.;A felmosóbetétek telepítve.
+115.ogg;Mop pads removed.;A felmosóbetéteket eltávolították.;A felmosóbetéteket eltávolították.
+116.ogg;Child lock on. Buttons locked.;Gyermekzár bekapcsolva. Gombok zárolva.;Gyermekzár bekapcsolva. Gombok zárolva.
+117.ogg;Child lock off. Buttons unlocked.;Gyermekzár ki. Gombok feloldva.;Gyermekzár ki. Gombok feloldva.
+118.ogg;Buttons locked. Press and hold the dock button to unlock.;Gombok zárolva. Nyomd meg és tartsd lenyomva a dokkolón a gombot a feloldáshoz.;Gombok zárolva. Nyomja meg és tartsa lenyomva a dokkológombot a feloldáshoz.
+119.ogg;Buttons locked.;Gombok zárolva.;Gombok zárolva.
+120.ogg;Buttons unlocked.;Gombok feloldva.;Gombok feloldva.
+121.ogg;The robot and the phone are connected. Please return to the Fantic app and wait for the network connection to complete.;A robot és a telefon csatlakoztatva van. Kérjük, térjen vissza a Fantic alkalmazáshoz, és várja meg a hálózati kapcsolat befejezését.;A robot és a telefon csatlakoztatva van. Kérjük, térjen vissza a Fantic alkalmazáshoz, és várja meg a hálózati kapcsolat befejezését.
+122.ogg;Continuous positioning, please wait.;Folyamatos pozicionálás, kérlek, várj.;Folyamatos pozicionálás, kérjük, várjon.
+126.ogg;Start cleaning.;Kezdem a takarítást.;Kezdje el a takarítást.
+127.ogg;Start spot cleaning.;Kezdem a helyi tisztítást.;Kezdje el a helyben történõ tisztítást.
+128.ogg;Start spot mopping.;Kezdem a helyi felmosást.;Kezdje el a foltos felmosást.
+129.ogg;Start scheduled cleaning.;Elkezdem az ütemezett takarítást.;Kezdje meg a tervezett takarítást.
+130.ogg;Start scheduled mopping.;Elkezdem az ütemezett felmosást.;Kezdje meg a tervezett felmosást.
+131.ogg;Start spot cleaning.;Kezdem a helyi tisztítást.;Kezdje meg a helybeni takarítást.
+132.ogg;Start spot mopping.;Kezdem a helyi felmosást.;Kezdje el a foltos felmosást.
+133.ogg;Start selected room cleaning.;Kezdem a választott szoba takarítását.;Válogatott helyiségek takarításának megkezdése.
+134.ogg;Start selected room mopping.;Kezdem a választott szoba felmosását.;Kiválasztott helyiségek felmosásának megkezdése.
+135.ogg;Start zoned cleaning.;Zónás takarítás indítása.;Zónás takarítás indítása.
+136.ogg;Start zoned mopping.;Zónás felmosás indítása.;Zónás felmosás indítása.
+137.ogg;Resume cleaning.;Folytatom a takarítást.;Takarítás folytatása.
+138.ogg;Resume mopping.;Folytatom a felmosást.;Folytassa a felmosást.
+139.ogg;Resume returning to the base for self-cleaning.;A dokkolóhoz tartottam megtisztítani magam.;Folytassa az alapra való visszatérést öntisztításhoz.
+140.ogg;New environment is detected. Returning to the self-wash base.;Úgy látom új helyen vagyok. Visszamegyek a bázisra.;Új környezet észlelése. Visszatérés az önmosó bázisra.
+141.ogg;Mop pad error. Please check and clean it.;Felmosó hiba. Kérlek, ellenõrizd és tisztítsd meg.;Mop pad hiba. Kérjük, ellenõrizze és tisztítsa meg.
+142.ogg;Mop pad worn out. Please replace it timely.;A felmosóbetét elhasználódott. Kérlek, cseréld amint tudod.;A felmosóbetét elhasználódott. Kérjük, idõben cserélje ki.
+143.ogg;Cleaning completed.;Kész vagyok a takarítással.;A tisztítás befejezõdött.
+144.ogg;Mopping completed.;Kész vagyok a felmosással.;A felmosás befejezõdött.
+145.ogg;Positioning successful. Resume cleaning.;Már tudom hol vagyok. Folytatom a takarítást.;Pozicionálás sikeres. Folytassa a takarítást.
+146.ogg;Positioning successful. Resume mopping.;Már tudom hol vagyok. Folytatom a felmosást.;Pozicionálás sikeres. Folytassa a felmosást.
+148.ogg;Return to the base for self-cleaning.;Megyek vissza a bázisra megtisztítani magam.;Vissza a bázisra az öntisztításhoz.
+149.ogg;Unable to reach the specified area. Please try to clear obstacles in the path.;Nem sikerült elérni a megadott területet. Kérlek, próbáld meg eltakarítani az útban lévõ akadályokat.;Nem sikerült elérni a megadott területet. Kérjük, próbálja meg eltakarítani az útban lévõ akadályokat.
+150.ogg;Unable to reach the specified area. Please try to delete no-go zones in the path.;Nem sikerült elérni a megadott területet. Kérlek, próbáljd meg törölni a tiltott zónákat az útvonalon.;Nem sikerült elérni a megadott területet. Kérjük, próbálja meg törölni a tiltott zónákat az útvonalon.
+151.ogg;The path is blocked. Please try to clear obstacles around your robot.;Az útvonal el van zárva. Kérlek, próbáld meg a körülöttem lévõ akadályokat eltávolítani.;Az útvonal el van zárva. Kérjük, próbálja meg a robot körüli akadályokat eltávolítani.
+152.ogg;The path is blocked. Please try to delete no-go zones or move your robot out of this area.;Az útvonal el van zárva. Kérlek, próbáld meg törölni a tiltott zónákat, vagy vigyél ki a területrõl.;Az útvonal el van zárva. Kérjük, próbálja meg törölni a tiltott zónákat, vagy vigye ki a robotot a területrõl.
+153.ogg;Your robot is detected in the no-go zone. Please move your robot out of this area.;A robotodat a tiltott zónában észlelték. Kérjük, vigye ki robotját errõl a területrõl.;A robotodat a tiltott zónában észlelték. Kérjük, vigye ki robotját errõl a területrõl.
+154.ogg;Operated too frequently. Please try again later.;Túl gyakran próbáltad. Kérjük, próbálja meg késõbb újra.;Túl gyakran mûködött. Kérjük, próbálja meg késõbb újra.
+155.ogg;Start to return to the charging and the mop cleaning dock.;Indítsa el, hogy visszatérjen a töltéshez és a moptisztító dokkolóhoz.;Indítsa el, hogy visszatérjen a töltéshez és a moptisztító dokkolóhoz.
+156.ogg;Mop pad tray uninstalled.;A felmosópad tálcát eltávolították.;A felmosópad tálcát eltávolították.
+157.ogg;Am already at the charging and the mop cleaning dock.;Már a töltõ és tisztító dokkolónál vagyok.;Már a töltõ- és a moptisztító dokkolónál vagyok.
+200.ogg;Shutdown sound;Kikapcsolási hang;Kikapcsolási hang
+179.ogg;Mop pad cleaned, the water in the clean water tank insufficient, please fill the clean water tank and empty the used water tank;Felmosók megtisztítva. Úgy tûnik elfogyott a tiszta víz, kérlek tültsd újra és ellenõrizd a szennyezett vízet is.;Mop pad megtisztítva, a tiszta víztartályban lévõ víz nem elegendõ, kérjük, töltse ki a tiszta víztartályt és ürítse ki a használt víztartályt.
+181.ogg;Low water, please fill the clean water tank;A vízszint nem megfelelõ, kérlek ellenõrizd a tiszta víztartályt.;
+186.ogg;Please check the clean water tank;Kérlek ellenõrizd a tiszta víztartályt.;
+187.ogg;This will take about 5-10 minutes;Ez 5, 10 percig is eltarthat.;
+188.ogg;Automatic docking engaged;Automatikus dokkolás;
