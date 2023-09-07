@@ -9,9 +9,9 @@ Szükséges elszközök:
   - Dreame vacuum integráció: https://community.home-assistant.io/t/custom-component-dreame-vacuum/473026
   - Token extraktor: https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor
 
-Mivel én ezeken keresztül állítottam be egyenlőre csak ezt tudom leírni, ha lesz időm visszafejteni a dreame integrációt hogy működik akkor esetleg lesz egy tool ami műküdik.
+Mivel én ezeken keresztül állítottam be csak ezt a módszert tudom leírni, ha lesz időm visszafejteni a dreame integrációt hogy működik a kapcsolat, akkor esetleg lesz egy tool ami működik.
 Egyelőre a saját magam által készített magyar hangokat lehet telepíteni a lenti módszerrel ami lazább/viccesebb hangvételű, a forrásban meg lehet őket előre hallgatni: https://github.com/SzigetiD/xiaomi-porszivo-magyar-hang/tree/main/voices 
-Az én gépemben (x10+) sikerült a hangok 95%-át lefedni. Folyamatosan fogom bővíteni.
+Az én gépemben (x10+) sikerült a hangok 95%-át lefedni. Folyamatosan fogom bővíteni, és lesz egy leírás saját hangok készítéséhez is később.
 
 Lépések:
   - Dreame integráció telepítése és beállítása a leírás alapján: https://github.com/Tasshack/dreame-vacuum/blob/master/README.md
